@@ -2,7 +2,7 @@
   "name": "#1",
   "symbol": "RANFT",
   "description": "An Ether Art",
-  "image": "https://github.com/I-am-Favour/RandomNFTMetadata/blob/main/RandomNFTimages/1.png?raw=true",
+  "image": "https://raw.githubusercontent.com/I-am-Favour/RandomNFTMetadata/main/RandomNFTimages/1.png",
   "attributes": [
     {
         "trait_type": "Random art",
