@@ -1,0 +1,12 @@
+{
+    "name": "#5",
+    "symbol": "RANFT",
+    "description": "A Jelly Co Art",
+    "image": "https://raw.githubusercontent.com/I-am-Favour/RandomNFTMetadata/main/RandomNFTimages/5.JPG",
+    "attributes": [
+      {
+          "trait_type": "Random art",
+          "value": "Jelly Co"
+      }
+    ]
+  }

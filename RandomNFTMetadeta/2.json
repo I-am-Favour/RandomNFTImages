@@ -1,0 +1,12 @@
+{
+    "name": "#2",
+    "symbol": "RANFT",
+    "description": "A Qzuki Art",
+    "image": "https://raw.githubusercontent.com/I-am-Favour/RandomNFTMetadata/main/RandomNFTimages/2.jpg",
+    "attributes": [
+      {
+          "trait_type": "Random art",
+          "value": "Qzuki"
+      }
+    ]
+  }

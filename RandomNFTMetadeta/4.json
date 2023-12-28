@@ -1,0 +1,12 @@
+{
+    "name": "#4",
+    "symbol": "RANFT",
+    "description": "A Kid Called Beast Art",
+    "image": "https://raw.githubusercontent.com/I-am-Favour/RandomNFTMetadata/main/RandomNFTimages/4.JPG",
+    "attributes": [
+      {
+          "trait_type": "Random art",
+          "value": "A Kid Called Beast"
+      }
+    ]
+  }
