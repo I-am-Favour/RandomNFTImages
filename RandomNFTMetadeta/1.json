@@ -1,12 +1,12 @@
 {
-  "name": "#TST",
-  "symbol": "RANFT",
-  "description": "An Ether Art",
-  "image": "https://raw.githubusercontent.com/I-am-Favour/RandomNFTMetadata/main/RandomNFTimages/1.png",
-  "attributes": [
-    {
-        "trait_type": "Random art",
-        "value": "Ether"
-    }
-  ]
-}
+    "name": "#1",
+    "symbol": "RANFT",
+    "description": "An Ether Art",
+    "image": "https://raw.githubusercontent.com/I-am-Favour/RandomNFTMetadata/main/RandomNFTimages/1.png",
+    "attributes": [
+      {
+          "trait_type": "Random art",
+          "value": "Ether"
+      }
+    ]
+  }
